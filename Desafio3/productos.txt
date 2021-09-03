@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Auto",
+		"price": 45678,
+		"thumbnail": "foto1.jpg",
+		"id": 1
+	},
+	{
+		"title": "rueda",
+		"price": 1345,
+		"thumbnail": "foto2.jpg",
+		"id": 2
+	},
+	{
+		"title": "linterna",
+		"price": 65,
+		"thumbnail": "foto3.jpg",
+		"id": 3
+	}
+]
